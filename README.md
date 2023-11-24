@@ -1,8 +1,8 @@
 # TUGAS9
 
-Nama : Alfaza putra adjie ariefiansyah
+Nama : Farhan Zulfahriansyah
 
-NIM : 312210512
+NIM : 312210494
 
 Kelas : TI.22.A5
 
@@ -14,5 +14,8 @@ Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I
 
 
 
-https://github.com/alfaza-putra/TUGAS9/assets/129705943/2cca871e-8c1c-4976-a954-ab2771bb8343
+
+
+https://github.com/HansArtLettering/tugas9/assets/114873077/b12ee902-bd3c-4abf-9977-69cf17217ed8
+
 
